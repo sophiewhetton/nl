@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://sophiewhetton.github.xn--io/nl-/index.html</loc>
-	</url>
-	<url>
 		<loc>https://sophiewhetton.github.xn--io/nl-/page1.html</loc>
 	</url>
 	<url>
@@ -19,5 +16,8 @@
 	</url>
 	<url>
 		<loc>https://sophiewhetton.github.xn--io/nl-/page6.html</loc>
+	</url>
+	<url>
+		<loc>https://sophiewhetton.github.xn--io/nl-/.html</loc>
 	</url>
 </urlset>
