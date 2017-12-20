@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site NL",
-    "currentPage": ".html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 48,
     "versionPublish": "4.4.1",
@@ -3353,7 +3353,7 @@
         }
       ]
     },
-    ".html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
